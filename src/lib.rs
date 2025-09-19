@@ -1,4 +1,3 @@
-#![no_std]
 #![warn(missing_docs)]
 #![allow(unused_mut)]
 #![allow(clippy::match_like_matches_macro)]
